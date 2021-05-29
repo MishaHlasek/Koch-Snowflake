@@ -1,5 +1,5 @@
 # Koch-Snowflake
-Final Project Code in Place 2021
+Final Project Code in Place 2021. Access 2 minute video presentation [here](https://youtu.be/CUgzp4pDNuc).
 
 I attended [Code in Place 2021](https://codeinplace.stanford.edu/) which is an intro-to-coding course built off the first half of one of most popular courses at Stanford University (CS106A). Koch Snowflake is my final project for the course which I wrote in Python. 
 
