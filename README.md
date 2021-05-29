@@ -6,11 +6,11 @@ I attended [Code in Place 2021](https://codeinplace.stanford.edu/) which is an i
 ## What is Koch Snowflake?
 [Koch Snowflake](https://en.wikipedia.org/wiki/Koch_snowflake) is a fractal - that is an image which can be built up iteratively. Koch snowflake starts as an equilateral triangle. Then in each step every segment is divided into three parts where the middle part is replaced by two sides of a smaller equilateral triangle. And this process repeats over and over again.
 
-The image below is Koch Snowflake which my program (*koch.py*) draws if the user asks for 1000 by 1000 pixels and 5 iterations.
+The image below is Koch Snowflake which my program ([koch.py](koch.py)) draws if the user asks for 1000 by 1000 pixels and 5 iterations.
 ![koch 1000 5 github](https://user-images.githubusercontent.com/84993454/120040077-d008ec00-bfba-11eb-8992-e21917709d05.JPG)
 
 ## Library my_geometry.py
-To produce such images, I used the `simpleimage` library which we learned during Code in Place. I also wrote my own library (*my_geometry.py*) which includes functions such as 
+To produce such images, I used the [simpleimage](https://codeinplace2021.github.io/pythonreader/en/images/) library which we learned during Code in Place. I also wrote my own library ([my_geometry.py](my_geometry.py)) which includes functions such as 
 * draw a line segment with given endpoints
 * find third vertex of an equilateral triangle
 * locate one third and two thirds on a given segment
